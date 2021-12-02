@@ -7,3 +7,5 @@ Talk given at these event(s):
 
 * Unity 2020.3.11f1
 * MRTK 2.7.2 with OpenXR
+
+[![Bringing Your Imaginary Friend to Life With HoloLens](CreationOfTimmy.png)](https://www.youtube.com/watch?v=DPaMmoDfbh0 "Bringing Your Imaginary Friend to Life With HoloLens")
